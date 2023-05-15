@@ -1,5 +1,5 @@
-:sunglasses: I'm P4kit0
-:house: I live in Spain
-:snake: I'm Sysadmin
-:crab: I'm like cybersecurity and forensic
+😎: I'm P4kit0
+🏠 I live in Spain
+🐍 I'm Sysadmin
+❤️ I'm like cybersecurity and forensic
 
