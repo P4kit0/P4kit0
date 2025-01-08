@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! Here's a little bit about me:
 
 - 😎 I'm P4kit0
-- 🏠 I live in Spain
-- 🐍 I'm a Sysadmin
-- ❤️ I'm passionate about cybersecurity and forensics
+- 🏠 I am from Spain
+- 🐍 Sysadmin
+- ❤️ I am interested in cybersecurity and forensic.
 
 ## GitHub Stats
 
